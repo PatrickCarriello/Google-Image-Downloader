@@ -40,3 +40,7 @@ D:\Kaynak Kodlar\Google Resim Çekici\WindowsApplication1\WindowsApplication1\ob
 D:\Kaynak Kodlar\Google Resim Çekici\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
 D:\Kaynak Kodlar\Google Resim Çekici\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
 D:\Kaynak Kodlar\Google Resim Çekici\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Kaynak Kodlar\Github\Google-Image-Downloader\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Kaynak Kodlar\Github\Google-Image-Downloader\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Kaynak Kodlar\Github\Google-Image-Downloader\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Kaynak Kodlar\Github\Google-Image-Downloader\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
